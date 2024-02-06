@@ -1,7 +1,5 @@
 # MUCFall22OtterResearch
-Georgia Tech Mobile and Ubiquitous Computing Course - Work for Otter Subteam
-
-More info to come! :D
+Georgia Tech Mobile and Ubiquitous Computing Course - Toys for Otter Health Monitoring
 
 Department: Animal Computer Interaction
 
